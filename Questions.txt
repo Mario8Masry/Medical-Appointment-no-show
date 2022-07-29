@@ -1,0 +1,1 @@
+First, I read the data sets and inspect it with excel at the begging then I read some more information avout it on kaggle. I used pandas to make a dataframe of some of the dataset, and started asked what questions should be useful in the analysis. I used Yes or No type of questions, then I used plots and charts to describe it .
